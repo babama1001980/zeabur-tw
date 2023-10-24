@@ -4,10 +4,10 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'1'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'zeaburtw.xingfriedrich.tk'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-''}
-export CFIP=${CFIP:-'icook.hk'}
+export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"f72aede0bca5d7e5d6e1613b65c479f1","TunnelSecret":"sgsta8WbzkmEZIDUu+277siUnLP2UjjdddfkqsXygZQ=","TunnelID":"c6eb1a8f-1954-4950-8456-1b9c0109b2af"}'}
+export CFIP=${CFIP:-'cc.mu2023.eu.org'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 
